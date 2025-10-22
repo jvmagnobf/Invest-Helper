@@ -1,12 +1,12 @@
-# InvestHelper 📈
+# InvestHelper 
 Um programa em Python para auxiliar investidores a encontrar ações compatíveis com seu perfil de investimento.
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 Muitos investidores, especialmente os iniciantes, enfrentam o desafio de escolher ações na bolsa que se alinhem com seu perfil de risco e objetivos financeiros. A insegurança ao tomar decisões pode levar a escolhas que resultam em perdas.
 
 O InvestHelper foi criado para abordar esse problema, oferecendo sugestões de ações baseadas em um perfil de investimento definido pelo próprio usuário.
 
-## ✨ Como Funciona
+## Como Funciona
 Definição do Perfil: O usuário define seu perfil de investidor informando suas preferências para três características principais:
 
 Risco: O quão disposto está a correr riscos (0.0 a 1.0, sendo 1.0 o mais alto).
@@ -21,7 +21,7 @@ Cálculo de Compatibilidade: O programa calcula o quão "próximas" as caracter�
 
 Resultado: É exibida uma lista das ações de interesse, ordenadas pela compatibilidade com o perfil do usuário (em porcentagem). Um gráfico 3D também é gerado para visualizar a relação entre o perfil do usuário e as ações selecionadas nessas três dimensões (Risco, Retorno, Liquidez).
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 Linguagem: Python 3
 
 Bibliotecas Principais:
